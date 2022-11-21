@@ -1,0 +1,335 @@
+#EXTM3U
+#EXTINF:-1, Çınar FM 91.8 FM-Gümülcine
+http://95.173.162.190:9964/;stream.mp3
+#EXTINF:-1,A Haber radyo-Türkiye
+https://trkvz-radyolar.ercdn.net/ahaberradyo/playlist.m3u8
+#EXTINF:-1,A Spor radyo-Türkiye
+https://trkvz-radyolar.ercdn.net/asporradyo/playlist.m3u8
+#EXTINF:-1,Adana  FM 95.3 MHz
+https://host.onlineradyotv.net:2020/stream/adanafm
+#EXTINF:-1,Akra FM 107.6-Türkiye
+https://cdn3.akradyo.net/akracanli2/_definst_/livestream_aac/playlist.m3u8
+#EXTINF:-1,Alem FM-Türkiye
+https://turkmedya.radyotvonline.net/alemfmaac
+#EXTINF:-1,Açik radyo 95.0-Istanbul
+http://stream.34bit.net/ar64.mp3.m3u
+#EXTINF:-1,Aşk 102.1 FM-Ankara
+http://yayin.asymedya.com:8020/listen.pls?sid=1
+#EXTINF:-1,Baba radyo 105.6-Istanbul
+http://37.247.98.7/;stream.mp3
+#EXTINF:-1,Bariş radyo 104.8-Adana
+http://yayin2.canliyayin.org:9350/listen.pls
+#EXTINF:-1,Bayram FM-Türkiye
+https://sslyayin.netyayin.net:10962/live
+#EXTINF:-1,Berat FM 87.6-Istanbul
+http://beratfm.80.yayin.com.tr/;stream.mp3
+#EXTINF:-1,Best FM 98.4-Istanbul
+http://officialbestfm.radyotvonline.net/bestfmofficial
+#EXTINF:-1,Bloomberg HT radyo 92.8-Istanbul
+https://ciner-live.ercdn.net/bloombergradyo/bloombergradyo_1.m3u8
+#EXTINF:-1,Bursa Karadeniz FM 104.3
+https://ssl.radyosfer.com/9462/stream
+#EXTINF:-1,CNN Türk radyo 92.6-Istanbul
+https://radyo.duhnet.tv/cnnturk
+#EXTINF:-1,Damar Türk 97.0-Istanbul
+https://live.radyositesihazir.com/7000/stream
+#EXTINF:-1,Damla FM-Istanbul
+http://yayin.rtmp.org:8750/listen.pls
+#EXTINF:-1,Diyanet Kur'an radyo(verski)
+https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3c14192aa92.smil/playlist.m3u8
+#EXTINF:-1,Diyanet Risalet radyo-Türkiye
+https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3c1520b2626.smil/playlist.m3u8
+#EXTINF:-1,Diyanet radyo-Türkiye
+https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3c1171d7d2a.smil/playlist.m3u8
+#EXTINF:-1,Diyanet risalet radyo-Türkiye
+https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3c1520b2626.smil/playlist.m3u8
+#EXTINF:-1,Dost 89.2 FM-Ankara
+http://yayin.dostfm.com:8920/listen.pls
+#EXTINF:-1,Erkam radyo 96.8-Istanbul
+https://raddyo.com/radio/8010/radio.mp3
+#EXTINF:-1,Esas radyo 105.0 FM-Konya
+http://yayin.turkhosted.com:6034/listen.pls?sid=1
+#EXTINF:-1,Genç radyo 104.3 FM-Konya
+http://yayin.turkhosted.com:6030/listen.pls
+#EXTINF:-1,Gimsa radyo 90.6-Ankara
+http://yayin.canliyayin.org:9482/;stream.mp3
+#EXTINF:-1,Gözyaşi FM 102.9 MHz-Konya
+http://yayin1.canliyayin.org:8700/;stream.mp3
+#EXTINF:-1,Habertürk radyo
+https://ciner-live.ercdn.net/haberturkradyo/haberturkradyo_1.m3u8
+#EXTINF:-1,Habertürk radyo 105.4 FM
+https://ciner-live.ercdn.net/haberturkradyo/haberturkradyo_1.m3u8
+#EXTINF:-1,Harman 107.6 FM-Ankara
+http://37.247.100.101/listen.pls?sid=66
+#EXTINF:-1,Hedef radyo 91.8-Ankara
+https://stream.rcast.net/200299
+#EXTINF:-1,Imaj pop radyo 100.5-Ankara
+http://46.20.4.5:9400/listen.pls
+#EXTINF:-1,Isra FM 100.6 MHz-Konya
+http://yayin1.canliyayin.org:8210/;stream.mp3
+#EXTINF:-1,Istanbul'un Sesi radyosu 91.8
+http://46.245.160.224:8110/listen.pls
+#EXTINF:-1,Joy FM 100.6-Istanbul
+https://playerservices.streamtheworld.com/pls/JOY_FM.pls
+#EXTINF:-1,Joy Türk 89.0-Istanbul
+https://playerservices.streamtheworld.com/pls/JOY_TURK.pls
+#EXTINF:-1,KRAL FM 92.0 FM-Türkiye
+https://dygedge2.radyotvonline.net/kralfm/playlist.m3u8
+#EXTINF:-1,KRAL Pop radyo
+https://dygedge.radyotvonline.net/kralpop/playlist.m3u8
+#EXTINF:-1,KRYK Radyo ikinci kanali-Kibris
+https://r1.cloudskep.com/cybcr/cybc2/icecast.audio
+#EXTINF:-1,Kafa radyo
+https://moondigitaledge2.radyotvonline.net/kafaradyo/playlist.m3u8
+#EXTINF:-1,Karadeniz 98.2-Istanbul
+https://wowza1.radyotvonline.com/unitedmedia/karadenizfm.stream/playlist.m3u8
+#EXTINF:-1,Karma Türk radyo 99.0
+https://yayin.radyomadyo.com:8006/stream
+#EXTINF:-1,Kiss FM 91.6-Istanbul
+https://playerservices.streamtheworld.com/pls/KISS_FM128AAC.pls
+#EXTINF:-1,Konya FM 99.5 MHz
+http://212.175.65.102:8001/live.m3u
+#EXTINF:-1,Kordon 96.5 FM-Izmir
+http://38.96.148.39:8588/listen.pls
+#EXTINF:-1,Kuzey FM 97.8 MHz-Trabzon
+http://yayin1.yayindakiler.com:3028/listen.pls
+#EXTINF:-1,Küpe FM 100.0-Silivri-Tyrkiye
+https://icecast.netmedya.net/kupefm.m3u
+#EXTINF:-1,Lalegül 88.4-Istanbul
+https://icecast.netmedya.net/lalegulfm
+#EXTINF:-1,Lider 88.6 FM-Adana
+http://yayin1.yayindakiler.com:3046/listen.pls
+#EXTINF:-1,Lig radyo-Türkiye
+https://turkmedya.radyotvonline.com/turkmedya/ligradyo.stream/playlist.m3u8
+#EXTINF:-1,Lokum FM 95.7-Adana
+http://37.247.98.9/listen.pls?sid=493
+#EXTINF:-1,Lounge 96 FM-Istanbul
+https://sc.vargonen.net:5003/listen.pls
+#EXTINF:-1,Lüleburgaz sesi 92.3-Trakya'nýn sesi
+http://yayin.netyayin.net:3439/listen.pls?sid=1
+#EXTINF:-1,Mad radio 107-Hellas
+http://sc2.streamwithq.com:8050/listen.pls
+#EXTINF:-1,Max FM 95.8-Ankara
+http://live.radyotvonline.com:8090/listen.pls
+#EXTINF:-1,Meteorolojijin sesi radyosu-Türkiye
+http://radyomgm.canliyayinda.com/;stream.mp3
+#EXTINF:-1,Meşk FM 95.5-Adana
+http://stream.radyolarburada.com:8000/listen.pls
+#EXTINF:-1,Moral FM-Türkiye
+http://yayin2.canliyayin.org:8886/listen.pls
+#EXTINF:-1,Mwtro FM 97.2-Istanbul
+https://playerservices.streamtheworld.com/pls/METRO_FM.pls
+#EXTINF:-1,NTV Radyo-Türkiye
+https://dygedge.radyotvonline.net/ntvradyo/playlist.m3u8
+#EXTINF:-1,Number one Türk
+https://n10101m.mediatriple.net/numberoneturk
+#EXTINF:-1,Number one102.4-Türkiye
+https://n10101m.mediatriple.net/numberone
+#EXTINF:-1,ODTU 103.1-Ankara
+http://stream.radyoodtu.com.tr/canli
+#EXTINF:-1,Pal 106.6 FM-Türkiye
+http://shoutcast.radyogrup.com:1030/listen.pls?sid=1
+#EXTINF:-1,Pal nostalji-Türkiye
+http://shoutcast.radyogrup.com:1010/listen.pls
+#EXTINF:-1,Pal station 106.0-Türkiye
+http://shoutcast.radyogrup.com:1020/listen.pls
+#EXTINF:-1,Park FM 96.8-Ankara
+http://yayin.netradyom.com:8050/PARKFM/
+#EXTINF:-1,Power FM 100.0-Istanbul
+http://listen.powerapp.com.tr/powerfm/mpeg/icecast.audio
+#EXTINF:-1,Power Türk 99.8-Istanbul
+http://listen.powerapp.com.tr/powerturk/mpeg/icecast.audio
+#EXTINF:-1,Power plus 100.2-Istanbul
+http://listen.powerapp.com.tr/powerplus/mpeg/icecast.audio
+#EXTINF:-1,Power pop 101.0-Istanbul
+http://listen.powerapp.com.tr/powerpop/mpeg/icecast.audio
+#EXTINF:-1,Radio 2000_90.6FM-Istanbul
+http://stream.taksimbilisim.com:8004/listen.pls
+#EXTINF:-1,Radiyo K 93.4-Istanbul
+http://yayin2.canliyayin.org:8200/;stream.mp3
+#EXTINF:-1,Radyo 16-Bursa 96.3
+http://kaanhost.com:9630/listen.pls
+#EXTINF:-1,Radyo 35-Izmir 89.0 FM
+http://stream01.radyo35.com.tr/radyo35.m3u
+#EXTINF:-1,Radyo 45'lik 91.2-Istanbul
+https://stream.radyo45lik.com:4545/stream
+#EXTINF:-1,Radyo 7-Türkiye
+http://46.20.3.250/;stream.mp3
+#EXTINF:-1,Radyo Ak 92.7-Edirne
+http://radyoak.canliyayinda.com:8026/;stream.mp3
+#EXTINF:-1,Radyo Aktif 92.2-Bursa
+https://stream.radyosfer.com/radio/8090/stream
+#EXTINF:-1,Radyo Alaturka 91.0-Istanbul
+https://yayin.jumboserver.net/stream/alaturkash
+#EXTINF:-1,Radyo Ava 104.4-Istanbul
+http://radioava.radyotvonline.net/Stream9
+#EXTINF:-1,Radyo Avrasya Tūrk 107.1-Ankara
+https://sslyayin.netyayin.net:10909/stream?icy=http
+#EXTINF:-1,Radyo Başkent 104.2-Ankara
+http://212.174.58.161:8000/1042
+#EXTINF:-1,Radyo Beyaz 94.2-Istanbul
+http://radyo.normyazilim.com:8010/listen.pls
+#EXTINF:-1,Radyo Bilim 97.0-Türkiye
+http://178.63.16.148:8750/stream
+#EXTINF:-1,Radyo Bu 95.4-Bursa
+https://radyo.yayindakiler.com/tunein/BursaRadyoBU/stream/pls
+#EXTINF:-1,Radyo Bursa FM 105.5 MHz
+http://yayin.bursafm.com.tr:1055/listen.pls
+#EXTINF:-1,Radyo Bursa'da bugün 94.2-Bursa
+https://radyo.bursadabugun.com/stream
+#EXTINF:-1,Radyo City FM - Gümülcine 107.6 MHz
+https://anadolu.liderhost.com.tr/9998/stream
+#EXTINF:-1,Radyo D 104-Istanbul
+https://radyo.duhnet.tv/radyod
+#EXTINF:-1,Radyo Denge 92.1-Ankara
+http://yayin1.canliyayin.org:8278/;stream.mp3
+#EXTINF:-1,Radyo Deva 96.4 FM-Adana
+http://radyo.yayindakiler.com:3040/listen.pls
+#EXTINF:-1,Radyo Doruk 87.8-Türkiye
+https://yayin5.radyohizmeti.com/8034/;
+#EXTINF:-1,Radyo EN 104.7 FM-Konya
+http://yayin2.canliyayin.org:7222/;stream.mp3
+#EXTINF:-1,Radyo Ege 92.7-Izmir
+http://stream2.taksimbilisim.com:8010/listen.pls
+#EXTINF:-1,Radyo Ekran 93.3-Adans
+http://sunucu2.radyolarburada.com:8095/;stream.mp3
+#EXTINF:-1,Radyo Eksen 96.2-Istanbul
+http://eksenwmp.radyotvonline.com/listen.pls
+#EXTINF:-1,Radyo Fenomen 100.4-Istanbul
+http://fenomen.listenfenomen.com/fenomen/128/icecast.audio
+#EXTINF:-1,Radyo Fitrat 102.6-Istanbul
+http://shaincast.caster.fm:22344/listen.mp3.m3u
+#EXTINF:-1,Radyo Gençlik 99.0 FM-Konya
+http://radyogenclik.com:9900/;stream.mp3
+#EXTINF:-1,Radyo Gol-Türkiye
+https://moondigitaledge.radyotvonline.net/radyogol/playlist.m3u8
+#EXTINF:-1,Radyo Günebakan 106.2-Edirne
+http://193.255.140.62:8000/stream.m3u
+#EXTINF:-1,Radyo Güney 99.2-Adana
+http://sunucu2.radyolarburada.com:8250/;stream.mp3
+#EXTINF:-1,Radyo Havadis - Lefkoşa 107.8 FM,Türk Cyprus
+https://live.radyositesihazir.com/8012/stream
+#EXTINF:-1,Radyo Hayat 94.5-Adana
+http://live4.radyotvonline.com:9450/listen.pls
+#EXTINF:-1,Radyo Ilef 91.0-Ankara
+http://radyo.cc.ankara.edu.tr:8089/listen.pls
+#EXTINF:-1,Radyo Imbat 90.0-Izmir
+http://38.96.148.39:8788/listen.pls
+#EXTINF:-1,Radyo KTÜ 106.2 FM-Trabzon
+http://194.27.90.170:8000/listen.pls
+#EXTINF:-1,Radyo Karadenizim-Bursa 101.9 FM
+https://radyoplayer.net/listen/bf2bd00d20aa4cbf48ca21cf1397c52d
+#EXTINF:-1,Radyo Kordelya 88.5 FM-Izmir
+http://38.96.148.39:8488/listen.pls
+#EXTINF:-1,Radyo Line-Bursa 99.1 FM
+http://37.247.114.250:8000/listen.pls
+#EXTINF:-1,Radyo Mega 101.8-Istanbul
+http://radyo.yayin.com.tr:4052/listen.pls?sid=1
+#EXTINF:-1,Radyo Mer 100.4-Mersin
+http://stream.taksimbilisim.com:8014/listen.pls
+#EXTINF:-1,Radyo Mola 94.0-Edirne
+http://yayin.yayindakiler.com:2018/;stream.mp3
+#EXTINF:-1,Radyo Nida 107.3-Bursa
+https://anadolu.liderhost.com.tr:8106/stream
+#EXTINF:-1,Radyo Pause 107.9 FM-Izmir
+http://live5.radyotvonline.com:8010/listen.pls
+#EXTINF:-1,Radyo Rahmet -Bursa 103.3 FM
+http://yayin.netyayin.net:1634/listen.pls
+#EXTINF:-1,Radyo S 95.6 FM-Bursa
+https://icecast.netmedya.net/radyos.m3u
+#EXTINF:-1,Radyo Sahil 95.0 FM-Aliağa
+https://ssl.radyosfer.com/9382/stream
+#EXTINF:-1,Radyo Selam 99.8-Konya
+http://yayin1.canliyayin.org:7066/;stream.mp3
+#EXTINF:-1,Radyo Seyhan 103.3 FM-Adana
+http://radyo.yayindakiler.com:4000/listen.pls
+#EXTINF:-1,Radyo Seymen 107.0-Istanbul
+https://yayin.radyoseymen.com.tr:1070/stream.m3u
+#EXTINF:-1,Radyo Shema 98.0 FM-Ankara
+https://shoutcast.shemamedia.com:9040/shema
+#EXTINF:-1,Radyo Spor 107.2-Istanbul
+https://moondigitaledge.radyotvonline.net/radyospor/playlist.m3u8
+#EXTINF:-1,Radyo Taka 98.5 MHz-Trabzon
+http://dj.msteknoloji.com:8586/;stream.mp3
+#EXTINF:-1,Radyo Talya 103.1-Antalya
+http://yayin.radyotalya.com:9424/
+#EXTINF:-1,Radyo Trafik Izmir 102.5 FM
+http://37.247.100.118/stream/157/;stream.mp3
+#EXTINF:-1,Radyo Tulu 104.5-Antalya
+http://yayin1.canliyayin.org:8248/;stream.mp3
+#EXTINF:-1,Radyo Türk 94.4-Bursa
+https://radyo.yayindakiler.com/tunein/bursaturk/stream/pls
+#EXTINF:-1,Radyo Venüs 105.3-Bursa
+https://yayin.bursaradyovenus.com/3416/stream
+#EXTINF:-1,Radyo Viva-Türkiye
+https://moondigitaledge.radyotvonline.net/show/playlist.m3u8
+#EXTINF:-1,Radyo Vizyon 93.0-Ankara
+http://yayin.netradyom.com:9300/;stream.mp3
+#EXTINF:-1,Radyo Voyage 107.4-Istanbul
+https://dygedge.radyotvonline.net/radyovoyage/playlist.m3u8
+#EXTINF:-1,Radyo trafik104.2- Istanbul
+http://37.247.100.118/stream/157/;stream.mp3
+#EXTINF:-1,Radyo Özgür 105.1-Ankara
+http://95.173.188.170:9898/listen.pls
+#EXTINF:-1,Radyo Ülkü 100.1-Konya
+http://yayin.yayindakiler.com:4112/listen.pls?sid=1
+#EXTINF:-1,Radyo Üniversite 100.9-Adana
+http://radyo.cu.edu.tr/Stream1
+#EXTINF:-1,Radyo Şampyon 89.5-Bursa
+http://95.173.188.166:9782/;stream.mp3
+#EXTINF:-1,Ribat 94.8 FM-Konya
+http://yayin1.canliyayin.org:7010/;stream.mp3
+#EXTINF:-1,Semerkand radyo Türkiye
+https://mtisvwurbfcyslive.mediatriple.net/mtisvwurbfcyslive/broadcast_58e23cb112296.smil/Playlist.m3u8
+#EXTINF:-1,Serhat 91.5 FM-Kirklareli
+http://yayin.serhatfm.com:9150/stream
+#EXTINF:-1,Show radyo-Türkiye
+http://windows.showradyo.com.tr/;stream.mp3
+#EXTINF:-1,Slow Türk radyo 95.4-Istanbul
+https://radyo.duhnet.tv/slowturk
+#EXTINF:-1,Star Arti 98.8-Istanbul
+http://yayin.morkarinca.com:8282/listen.pls
+#EXTINF:-1,Süper FM 90.8-Istanbul
+https://playerservices.streamtheworld.com/pls/SUPER_FM.pls
+#EXTINF:-1,TGRT FM-Türkiye
+https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fead000e2128.smil/playlist.m3u8
+#EXTINF:-1,TRT Arab
+https://radio-trtarabi.live.trt.com.tr/master.m3u8
+#EXTINF:-1,TRT FM-Türkiye
+https://radio-trtfm.live.trt.com.tr/master.m3u8
+#EXTINF:-1,TRT Nağme
+https://radio-trtnagme.live.trt.com.tr/master.m3u8
+#EXTINF:-1,TRT Radio 3-Türkiye
+https://radio-trtradyo3.live.trt.com.tr/master.m3u8
+#EXTINF:-1,TRT Radyo 1-Türkiye
+https://radio-trtradyo1.live.trt.com.tr/master.m3u8
+#EXTINF:-1,TRT Trabzon radyosu-Türkiye
+https://radio-trttrabzon.live.trt.com.tr/master.m3u8
+#EXTINF:-1,TRT Türkü 98.6-Türkiye
+https://radio-trtturku.live.trt.com.tr/master.m3u8
+#EXTINF:-1,TRT World radyo
+https://radio-trtworld.live.trt.com.tr/master_128.m3u8
+#EXTINF:-1,TRT radyo Haber
+https://radio-trtradyohaber.live.trt.com.tr/master.m3u8
+#EXTINF:-1,TRT Çukurovu radyosu
+https://radio-trtcukurova.live.trt.com.tr/master.m3u8
+#EXTINF:-1,Tiryaki FM 101.4 MHz-Konya
+http://yayin.turkhosted.com:6056/;stream.mp3
+#EXTINF:-1,Uludağ 91.7 FM-Bursa
+https://stream.radyosfer.com/radio/8070/stream
+#EXTINF:-1,Ulusal radyo 100.8-Istanbul
+https://www.guventechnology.com:2020/stream/RadyoUlusal
+#EXTINF:-1,Vav radyo-Türkiye
+https://trkvz-radyolar.ercdn.net/radyovav/playlist.m3u8
+#EXTINF:-1,Virgin radyo 106.2-Istanbul
+https://playerservices.streamtheworld.com/pls/VIRGIN_RADIO.pls
+#EXTINF:-1,Vuslat 101.1 FM-Adana
+http://yayin1.canliyayin.org:8282/listen.pls
+#EXTINF:-1,Yildiz 105.3 FM-Izmir
+http://live.radyotvonline.com:8150/listen.pls
+#EXTINF:-1,showradyo.tr
+http://windows.showradyo.com.tr/;stream.mp3
+#EXTINF:-1,Özel 103.2-Istanbul
+https://ozelfm.80.yayin.com.tr/listen.pls?sid=1
+#EXTINF:-1,Üniversite FM 91.3-Antalya
+http://www.mediasrv.akdeniz.edu.tr:8000/listen.pls?sid=1
